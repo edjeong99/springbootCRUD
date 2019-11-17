@@ -14,3 +14,7 @@ POST : /bookAPI/books : adding a book. takes a book class in the body of request
 PUT : /bookAPI/books : edit a book. takes a book class in the body of request
 DELETE :/bookAPI/books/id : delete a book with given id
 
+
+## Screenshots
+In below link, you can see screenshots of API call and sample codes
+https://docs.google.com/document/d/1ryRsnsQ6joJuMmFcYVeqhxRhvCf-28Rlvtl7JT2KyLI/edit?usp=sharing
